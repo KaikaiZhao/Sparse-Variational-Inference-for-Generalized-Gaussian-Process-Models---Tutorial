@@ -9,6 +9,6 @@ I spent two months working on the following papers:
     <li>Rishit Sheth and Roni Khardon. <a href="https://arxiv.org/abs/1612.03957" target="_blank">Monte Carlo Structured SVI for Two-Level Non-Conjugate Models</a>. arXiv:1612.03957.</li>
 </ol>
 
-I mainly focused on the ICML 2015 paper and wrote a series of blogs on the [tutorial](https://kaikaizhao.github.io/notes/2019/08/09/Sparse-Variational-Inference-for-Generalized-Gaussian-Process-Models) for this paper. Also, I implemented this paper with Python, including some algorithms from the other three papers. My Python code follows the fomulas presented in my tutorial articles closely. Hopefully, that is helpful for who are working on the related topic.
+I mainly focused on the ICML 2015 paper and wrote a series of [blogs](https://kaikaizhao.github.io/notes/2019/08/09/Sparse-Variational-Inference-for-Generalized-Gaussian-Process-Models) on the tutorial for this paper. Also, I implemented this paper with Python, including some algorithms from the other three papers. My Python code follows the fomulas presented in my tutorial articles closely. Hopefully, that is helpful for who are working on the related topic.
 
 The code is not optimized and so it's easy to read and understand.
