@@ -1,6 +1,6 @@
 # Sparse-Variational-Inference-for-Generalized-Gaussian-Process-Models---Tutorial
 
-I spent two months working on the following papers:
+I spent more than two months working on the following papers:
 
 <ol>
     <li>Rishit Sheth, Yuyang Wang, and Roni Khardon. <a href="http://homes.sice.indiana.edu/rkhardon/PUB/icml15sparseFPGP.pdf" target="_blank">Sparse variational inference for generalized gaussian process</a>. ICML 2015.</li>
