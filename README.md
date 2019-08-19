@@ -12,3 +12,5 @@ I spent two months working on the following papers:
 I mainly focused on the ICML 2015 paper and wrote a series of [blogs](https://kaikaizhao.github.io/notes/2019/08/09/Sparse-Variational-Inference-for-Generalized-Gaussian-Process-Models) on the tutorial for this paper. Also, I implemented this paper with Python, including some algorithms from the other three papers. My Python code follows the fomulas presented in my tutorial articles closely. Hopefully, that is helpful for who are working on the related topic.
 
 The code is not optimized and so it's easy to read and understand.
+
+If the .ipynb file cannot be loaded, paste the link to the following link and open it online, https://nbviewer.jupyter.org/
